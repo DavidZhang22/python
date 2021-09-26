@@ -1,2 +1,2 @@
-# python
+# scripts
 random scripts
